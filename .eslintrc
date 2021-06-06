@@ -1,0 +1,7 @@
+{
+  "extends": ["taro/react"],
+  "rules": {
+    "import/no-commonjs": 0,
+    "jsx-quotes": ["error", "prefer-double"]
+  }
+}
